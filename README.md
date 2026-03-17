@@ -27,21 +27,15 @@ Desenvolvedor de software com **mais de 5 anos de experiência**, atuando como *
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nsgean&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsgean&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsgean&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nsgean&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsgean&theme=tokyonight" alt="GitHub Streak"/>
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nsgean&theme=tokyonight)
+
 </div>
-
----
-
-## 📫 Como me encontrar
-
-- 💼 **LinkedIn**: [linkedin.com/in/nsgean](https://www.linkedin.com/in/nsgean)
-- 📧 **Email**: geancn.dev@gmail.com
-- 🌐 **Portfolio**: [github.com/nsgean/portfolio](https://github.com/nsgean/portfolio)
 
 ---
 
